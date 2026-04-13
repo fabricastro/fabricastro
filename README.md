@@ -17,8 +17,7 @@
 
 Soy un **Desarrollador Fullstack** con más de 3 años de experiencia construyendo portales institucionales, e-commerce y soluciones empresariales. Me especializo en el ecosistema JavaScript (React, Next.js, Vue.js) en frontend y Node.js/PHP en backend.
 
-- Trabajando en **Minexus** como Backend Developer y en el **Gobierno de San Juan** como Fullstack Developer
-- Desarrollé un CRM completo para una empresa en **Estados Unidos** (Angular + .NET)
+- Trabajando en **Minexus** como Backend Developer
 - Apasionado por las **buenas prácticas**, el código limpio y la arquitectura escalable
 - Basado en **San Juan, Argentina** 🇦🇷
 
@@ -56,24 +55,11 @@ Soy un **Desarrollador Fullstack** con más de 3 años de experiencia construyen
 
 ---
 
-## Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricastro&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabricastro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## Experiencia
 
 ```text
 Minexus                          Backend Developer       Jun 2025 – Presente
-Gobierno de San Juan             Fullstack Developer     Ene 2023 – Presente
+Gobierno de San Juan             Fullstack Developer     Ene 2023 – Jun 2025
 Tacu Sistemas                    Fullstack Developer     Ene 2024 – Sep 2024
 Technodevs                       Fullstack Developer     Mar 2022 – 2024
 ```
